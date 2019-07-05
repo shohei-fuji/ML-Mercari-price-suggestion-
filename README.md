@@ -1,5 +1,5 @@
 # ML-Mercari-price-suggestion-
-Mercari price suggestion
+Mercari price suggestion in Kaggle
 
 You can download the relational data files from below.
 
